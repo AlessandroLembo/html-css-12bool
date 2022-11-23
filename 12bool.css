@@ -40,7 +40,6 @@
 .row > .col-1{
     flex-basis: calc(100% / 12);
     max-width: calc(100% / 12);
-    /* flex-basis: 100%; */
 }
 
 .row > .col-2{
@@ -158,6 +157,20 @@ gestire spazio ai lati delle colonne */
 .offset-0{
     margin-left: 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
