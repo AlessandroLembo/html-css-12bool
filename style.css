@@ -5,7 +5,8 @@
 }
 
 .row{
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
+    padding: 0.5rem;
 }
 
 .row > [class^="col"] {
@@ -15,6 +16,14 @@
    text-align: center;
    line-height: 60px;
    color: white;
+   font-size: 12px;
 }
+
+.row > [class^="col"] [class^="col"] {
+    background-color: green;
+    border: 1px solid lightblue;
+ }
+
+
 
 
