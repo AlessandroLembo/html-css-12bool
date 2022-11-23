@@ -1,11 +1,10 @@
 /* regole di stile */
 
 .container{
-    border: 1px solid red;
+    border: 1px solid lightgrey;
 }
 
 .row{
-    /* margin-bottom: 1rem; */
     padding: 0.5rem;
 }
 
