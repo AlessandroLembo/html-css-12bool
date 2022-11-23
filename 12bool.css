@@ -52,6 +52,10 @@
     max-width: calc((100% / 12) * 5);
 }
 
+.row > .col-8{
+    width: calc((100% / 3) * 2);
+    max-width: calc((100% / 3) * 2);
+}
 
 .row > .col-12{
     width: 100%;
