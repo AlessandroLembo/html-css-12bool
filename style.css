@@ -1,1 +1,19 @@
 /* regole di stile */
+
+.container{
+    border: 1px solid red;
+}
+
+.row{
+    margin-bottom: 1rem;
+}
+
+.row > [class^="col"] {
+   min-height: 60px;
+   background-color: lightblue;
+   border: 1px solid white;
+   text-align: center;
+   line-height: 60px;
+}
+
+
